@@ -66,3 +66,9 @@ darknet
 vcpkg/
 .idea
 results
+/bad.list
+/CMakeFiles/cmake.check_cache
+/CMakeCache.txt
+/CMakeFiles/CMakeOutput.log
+/CMakeFiles/3.23.0-rc3/CMakeSystem.cmake
+/predictions.jpg
